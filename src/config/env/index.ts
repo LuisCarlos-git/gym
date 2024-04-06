@@ -1,6 +1,8 @@
 import 'dotenv/config'
+
 import { z } from 'zod'
-import { EnviromentVariablesExeption } from '../../helpers/errors'
+
+import { EnviromentVariablesExeption } from '@helpers/errors'
 
 const envSchema = z.object({
   NODE_ENV: z.enum(['dev', 'production']),
