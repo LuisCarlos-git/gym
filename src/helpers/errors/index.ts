@@ -1,1 +1,1 @@
-export {EnviromentVariablesExeption} from './EnviromentVariablesExeption'
+export { EnviromentVariablesExeption } from './EnviromentVariablesExeption'

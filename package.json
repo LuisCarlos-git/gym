@@ -12,7 +12,9 @@
   "author": "Luis Carlos Bastos",
   "license": "ISC",
   "devDependencies": {
+    "@rocketseat/eslint-config": "2.2.2",
     "@types/node": "^20.12.5",
+    "eslint": "8.34.0",
     "tsup": "^8.0.2",
     "tsx": "^4.7.2",
     "typescript": "^5.4.4"
