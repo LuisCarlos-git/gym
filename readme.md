@@ -27,4 +27,3 @@
 - [ ] The application data should be persisted in a PostgreSQL database
 - [ ] All lists of data should be paginated with 20 items per page
 - [ ] The user should be identified by JWT
-Feel free to adjust or modify the markdown as needed!
